@@ -1,6 +1,6 @@
 # Jelly Art Style
 
-![Jelly Art Style]((https://www.jellyartstyle.com/opengraph-image.png)
+![Jelly Art Style](https://www.jellyartstyle.com/opengraph-image.png)
 
 Generate beautiful jelly-themed art with a simple prompt. This repository documents the [Jelly Art Style](https://www.jellyartstyle.com/) project - an AI-powered image generation tool that transforms your text prompts into stunning jelly-inspired artwork.
 
